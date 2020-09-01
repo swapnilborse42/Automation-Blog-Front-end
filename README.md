@@ -1,4 +1,4 @@
 # Automation-Blog
-Internship - This is the part of blogging website.
-Internship - PHN Technology
-Blog topic - Automation
+Internship - This is the part of blogging website.<br>
+Internship - PHN Technology.<br>
+Blog topic - Automation.<br>
