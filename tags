@@ -1,0 +1,158 @@
+<p></p>
+
+<b></b>
+
+<h3><b></b></h3>
+
+<h4></h4>
+
+								<ol>
+									<li></li>
+									<li></li>
+								</ol>
+
+								<ul>
+									<li></li>
+									<li></li>
+								</ul>
+
+
+								<blockquote class="default">
+									
+								</blockquote>
+
+
+								<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+
+								<img src="images/.jpg"  alt="NO image" width="780" height="300">
+								<p>Credit: pixabay</p>
+
+
+ <style>
+        .container {
+          position: relative;
+          text-align: center;
+          color: white;
+        }
+        .bottom-left {
+          position: absolute;
+          bottom: 8px;
+          left: 16px;
+}
+    </style>
+
+
+
+								
+
+
+
+<div class="container">
+
+  <h1 class="font-weight-light text-center text-lg-left mt-4 mb-0">Projects</h1>
+
+  <hr class="mt-2 mb-5">
+
+  <div class="row text-center text-lg-left">
+
+    <div class="col-lg-3 col-md-4 col-6 container d-block mb-4 h-100">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p1.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p7.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p8.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p9.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p5.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p6.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p2.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p3.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p13.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p10.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p11.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p14.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p13.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p4.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p12.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+    <div class="col-lg-3 col-md-4 col-6 d-block mb-4 h-100 container">
+      
+            <img class="img-fluid img-thumbnail" src="assets/images/p16.jpeg" alt="">
+            <div class="bottom-left"><h3 style="color:#ff1313">&nbsp Project Name<br>Place</h3></div>
+          
+    </div>
+  </div>
+
+</div>
